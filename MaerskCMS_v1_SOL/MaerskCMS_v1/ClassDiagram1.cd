@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MaerskCMS_v1.BundleConfig" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.FilterConfig" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\FilterConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.RouteConfig" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.MvcApplication" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Controllers.AccountController" Collapsed="true">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAAAAAAAATAAAIIAAAAAAAQAIAEAEAgAAIA=</HashCode>
+      <FileName>Controllers\AccountController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Controllers.AdminController" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAIAAEQAAgAggAACAAiAFACAQAIAA=</HashCode>
+      <FileName>Controllers\AdminController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Controllers.AgentController" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAGBhAADAAAAAEgAABBAACIBAEAKAAAEAA=</HashCode>
+      <FileName>Controllers\AgentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Controllers.HomeController" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAEAAAAAACA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AddNewCustomerViewModel" Collapsed="true">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AddNewCustomerViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AddNewScheduleViewModel" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAKAgAAAAAgAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Models\AddNewScheduleViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AddNewVesselViewModel" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AddNewVesselViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AdminScheduleListViewModel" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAACAgAAAAAgAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AdminScheduleListViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AgentChooseScheduleViewModel" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAACAkAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AgentChooseScheduleViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AgentModel" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAgAAAAQAAAAAAAAAAAAACAAAAAAAEAAg=</HashCode>
+      <FileName>Models\AgentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AgentNewShipmentViewModel" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABJACAQCgEAAAAAgQQAAAACAAAQAEAAIAAAEAAAA=</HashCode>
+      <FileName>Models\AgentNewShipmentViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AgentScheduleListViewModel" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAACAgAAAAAgAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AgentScheduleListModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AgentShipmentDetailsViewModel" Collapsed="true">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABJQGAQCggAAAAAgAAAAgACIAAAAEAAIAAAEAAAA=</HashCode>
+      <FileName>Models\AgentShipmentDetailsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.AgentShipmentViewModel" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAEAACAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AgentShipmentViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.CustomerListViewModel" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CustomerListViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.EditCustomerViewModel" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAACAAAAAAA=</HashCode>
+      <FileName>Models\EditCustomerViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.LoginModel" Collapsed="true">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LoginModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.MainPageViewModel" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MainPageViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.ManageVesselViewModel" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAAAAAAgAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ManageVesselViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.RegisterModel" Collapsed="true">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAQAAAAgAAAAAAAACAAAAAgAAIAg=</HashCode>
+      <FileName>Models\RegisterModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.ShippingScheduleViewModel" Collapsed="true">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAACAgAAAAAgAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ShippingScheduleViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaerskCMS_v1.Models.MaerskCMS_v1.Models.VesselModel" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAQAAAAAAAAAAAAACAEAAAgAAIAg=</HashCode>
+      <FileName>Models\VesselModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
